@@ -3,7 +3,8 @@ Website de decoração de eventos e aluguel de material, desenvolvido em 2024.
 PHP - MySQL
 Acessa a pasta Base de Dados e importa a base de dados
 
-Tela Inicial - ![Captura de Ecrã (309)](https://github.com/user-attachments/assets/975a2f13-b06b-41c7-852d-13706e83d118)
+Tela Inicial - ![Captura de Ecrã (309)](https://github.com/user-attachments/assets/ed9622e1-b0b6-49a7-8d92-bec8265a5839)
+
 ![Captura de Ecrã (252)](https://github.com/user-attachments/assets/7031750b-f512-4ae3-a466-c840a10281e8)
 
 Tela dashboard - ![Captura de Ecrã (313)](https://github.com/user-attachments/assets/84724abb-ce4a-4591-8f85-f05aac2af806)
