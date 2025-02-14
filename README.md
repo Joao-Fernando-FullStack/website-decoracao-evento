@@ -1,6 +1,13 @@
 # website-decoracao-evento
+
+
 Website de decoração de eventos e aluguel de material, desenvolvido em 2024.
+
+
+
 PHP - MySQL
+
+
 Acessa a pasta Base de Dados e importa a base de dados
 
 Tela Inicial - ![Captura de Ecrã (309)](https://github.com/user-attachments/assets/ed9622e1-b0b6-49a7-8d92-bec8265a5839)
